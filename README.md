@@ -1,1 +1,1 @@
-Helps to understand how PyTorch's autograd functionality works behind the scenes. The whole engine is designed to work on scalers though unlike autograd where everything i.e. forward and backward pass work on tensors.
+Helps to understand how PyTorch's autograd functionality works behind the scenes. The whole engine is designed to work on scalers unlike autograd where everything i.e. forward and backward pass work on tensors.
